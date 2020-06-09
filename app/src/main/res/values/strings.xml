@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVC_PasswordApp</string>
+    <string name="create_password">Create password</string>
+    <string name="update_password">Update password</string>
+    <string name="mode_update">Update</string>
+    <string name="mode_create">Create</string>
+</resources>
